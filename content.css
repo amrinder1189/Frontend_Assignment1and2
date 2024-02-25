@@ -197,3 +197,7 @@ nav a:hover {
   font-size: 23px;
   /* box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px; */
 }
+
+header {
+  background-color: rgb(225, 169, 96);
+}
